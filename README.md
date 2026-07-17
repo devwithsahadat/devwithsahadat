@@ -1,56 +1,82 @@
-# ⚡ Md Sahadat Hossain (shawon)
-### 🚀 Advanced Frontend Developer & Automation Specialist
+# Dev With Sahadat
 
-<br/>
+![Portrait](Image/profile.jpg)
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Technical Arsenal</h3>
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <br/><br/>
-      <b>🌐 Web Engineering:</b>
-      <ul>
-        <li>Single-page HTML landing websites optimized for SEO.</li>
-        <li>Custom CSS animations & interactive UI implementations.</li>
-        <li>Tracking setups via Google Analytics & Search Console.</li>
-      </ul>
-      <b>⚙️ Automation & AI:</b>
-      <ul>
-        <li>SaaS workflow automation architectures using n8n nodes.</li>
-        <li>Precision AI prompting for graphics & 3D renders.</li>
-      </ul>
-      <b>🛡️ Security & Environment:</b>
-      <ul>
-        <li>Ethical hacking labs with VirtualBox & Kali Linux.</li>
-        <li>Network scanning and password analysis environments.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔥 Featured Operations</h3>
-      <b>🔗 Web & e-Commerce Projects:</b>
-      <ul>
-        <li><b>btc.sahadat.shop:</b> High-performance landing page for Bitcoin miner application.</li>
-        <li><b>Virtual Card Platform:</b> Modern glassmorphism e-commerce flow with bKash/Nagad & Messenger integration.</li>
-        <li><b>Dynamic Shipping:</b> Ordering interfaces with regional delivery calculations (Inside/Outside Dhaka).</li>
-      </ul>
-      <b>🎥 Content & Platform Management:</b>
-      <ul>
-        <li>Fiverr gig banner creations optimized for automation services.</li>
-        <li>Technical SEO, growth metadata, and community management for music platforms.</li>
-        <li>Live broadcast metadata optimization (SAFF U20 Championship).</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> Modern web development with a layered, expressive README design.
 
-<br/>
+---
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=devwithsahadat&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithsahadat&layout=compact&theme=tokyonight" width="43%" />
-</div>
+## About Me
+
+I build clean, high-performance web experiences that feel intuitive and look polished. My approach blends fast UI, elegant motion, and thoughtful accessibility for modern web apps.
+
+- **Role:** Full-stack Web Developer
+- **Focus:** UI/UX systems, responsive design, component-driven architecture
+- **Style:** Minimal, bold, and expressive with a fresh color palette
+
+---
+
+## Signature Snapshot
+
+![Gesture](Image/thumbs-down.jpg)
+
+> A confident creative who thinks in pixel-perfect layouts and developer-first systems.
+
+---
+
+## What I Build
+
+### Digital Products
+- Production-ready landing pages
+- SPA dashboards and design systems
+- Progressive web apps with smooth interactions
+
+### Developer Tools
+- Custom theme engines
+- Accessibility-first UI components
+- Fast and reusable frontend utilities
+
+### Growth Systems
+- Brand-led developer experiences
+- Content-driven portfolios
+- Systems that scale across screens
+
+---
+
+## My Workflow
+
+| Phase | Focus |
+|---|---|
+| Discover | User goals, product clarity, best-fit stack |
+| Design | Visual rhythm, new palette, modern typography |
+| Develop | Clean components, responsive UI, stable delivery |
+| Polish | Accessibility, performance, launch readiness |
+
+---
+
+## Core Skills
+
+- HTML5, CSS3, modern JavaScript
+- React, Vue, Svelte, Tailwind CSS
+- API integration, responsive layouts, animation
+- Cross-browser quality and accessibility tuning
+
+---
+
+## Connect
+
+- **Email:** sahadat@example.com
+- **LinkedIn:** [linkedin.com/in/sahadat](https://linkedin.com)
+- **GitHub:** [github.com/DevWithSahadat](https://github.com)
+
+---
+
+## Visual Identity
+
+This README is crafted around a dark-modern aesthetic with:
+- deep charcoal backgrounds
+- warm magenta accents
+- crisp white typography
+- high-contrast section cards
+
+> Use the local images in `Image/profile.jpg` and `Image/thumbs-down.jpg` to complete the visual experience.
